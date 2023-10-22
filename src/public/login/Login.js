@@ -80,7 +80,7 @@ function Login(){
                                         <div className="form-check">
                                             <input className="form-check-input" type="checkbox" value="" id="remember"/>
                                             <label className="form-check-label mb-0" HtmlFor="remember">
-                                             Lembrar-me
+                                             Lembrar-me.
                                             </label>
                                         </div>
                                         <div><Link to="./forgot-password.html" className="small text-right">Perdeu a senha</Link></div>

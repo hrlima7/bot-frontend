@@ -8,10 +8,8 @@ import Report from './private/Settings/report.js';
 
 function App(){
 
-   
 
-   
-    return (
+   return (
       
       
        <Routes>
